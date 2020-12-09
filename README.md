@@ -6,7 +6,7 @@
 
 下面是本人所发表和在投的部分工作。项目标题即为论文标题。所有论文均为理论性工作，本人均为第一作者或者共同第一作者，所有作者均按姓名拼音顺序排列。
 
-### Structured decomposition for reversible Boolean functions
+## Structured decomposition for reversible Boolean functions
 
 研究问题：这篇文章是关于量子计算的一个子领域——可逆电路设计的讨论。量子元件的精度要求非常的高，因而对量子门来说，其所包含的量子比特数越少，其物理实现可行性就越高。因此如何利用低比特可逆布尔门的组合去实现多比特可逆布尔门就是一个很有意义的问题。
 
@@ -14,7 +14,7 @@
 
 发表期刊：IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD'2020) (CCF体系结构A类, JCR2区)
 
-2. On the Degree of Boolean Functions as Polynomials over Zm
+## On the Degree of Boolean Functions as Polynomials over Zm
 
 研究问题：
 
@@ -22,7 +22,7 @@
 
 发表会议：International Colloquium on Automata, Languages, and Programming (ICALP'2020) (CCF理论B类)
 
-3. The One-Round Multi-player Discrete Voronoi Game on Grids and Trees
+## The One-Round Multi-player Discrete Voronoi Game on Grids and Trees
 
 研究问题：一个图论博弈问题：若干个人玩一个游戏，在一张图上每人同时分别放一个棋子，图中每个点立刻归属于离其最近的那枚棋子（同时最近则该点无效）。每个人都希望自己的棋子控制的范围尽可能的大。
 
@@ -30,7 +30,7 @@
 
 发表期刊：Theoretical Computer Science (TCS'2020) (CCF理论B类，JCR四区)
 
-4. On the Relationship between Energy Complexityand other Boolean Function Measures
+## On the Relationship between Energy Complexityand other Boolean Function Measures
 
 研究问题：
 
@@ -38,7 +38,7 @@
 
 发表会议：International Computing and Combinatorics Conference (COCOON'2019)
 
-5. Better Upper Bounds for Searching on a Linewith Byzantine Robots
+## Better Upper Bounds for Searching on a Linewith Byzantine Robots
 
 研究问题：
 
