@@ -6,7 +6,7 @@
 
 下面是本人所发表和在投的部分工作。项目标题即为论文标题。所有论文均为理论性工作，本人均为第一作者或者共同第一作者，所有作者均按姓名拼音顺序排列。
 
-1. Structured decomposition for reversible Boolean functions
+## Structured decomposition for reversible Boolean functions
 
 研究问题：这篇文章是关于量子计算的一个子领域——可逆电路设计的讨论。量子元件的精度要求非常的高，因而对量子门来说，其所包含的量子比特数越少，其物理实现可行性就越高。因此如何利用低比特可逆布尔门的组合去实现多比特可逆布尔门就是一个很有意义的问题。
 
