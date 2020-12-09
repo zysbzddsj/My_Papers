@@ -30,7 +30,7 @@
 
 发表期刊：Theoretical Computer Science (TCS'2020) (CCF理论B类，JCR四区)
 
-## On the Relationship between Energy Complexityand other Boolean Function Measures
+## On the Relationship between Energy Complexity and other Boolean Function Measures
 
 研究问题：
 
