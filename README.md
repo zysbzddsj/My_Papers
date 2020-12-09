@@ -38,7 +38,7 @@
 
 发表会议：International Computing and Combinatorics Conference (COCOON'2019)
 
-## Better Upper Bounds for Searching on a Linewith Byzantine Robots
+## Better Upper Bounds for Searching on a Line with Byzantine Robots
 
 研究问题：
 
