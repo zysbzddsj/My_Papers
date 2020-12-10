@@ -12,7 +12,7 @@
 
 项目成果：本文证明了任一n比特可逆门可以由7个n-1比特可逆门复合得到，改进了前人9个的结果。为了可逆布尔电路能够递归地进行低维分解，我们同时给出了任一n比特偶置换可逆门可以由10个n-1比特偶置换可逆门复合得到，改进了前人13个的结果。我们同时利用代码实现了本文的结果，并被华为量子模拟平台HiQ收录。
 
-发表期刊：IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD'2020) (CCF体系结构A类, 中科院2区)
+发表期刊：IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD'2020) (CCF体系结构A类, 中科院二区)
 
 ## On the Degree of Boolean Functions as Polynomials over Zm
 
