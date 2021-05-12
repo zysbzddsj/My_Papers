@@ -12,7 +12,7 @@
 
 项目成果：本文证明了任一n比特可逆门可以由7个n-1比特可逆门复合得到，改进了前人9个的结果。为了可逆布尔电路能够递归地进行低维分解，我们同时给出了任一n比特偶置换可逆门可以由10个n-1比特偶置换可逆门复合得到，改进了前人13个的结果。我们同时利用代码实现了本文的结果，并被华为量子模拟平台HiQ收录。
 
-发表期刊：IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD'2020) (CCF体系结构A类, 中科院二区)
+发表期刊：IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2020 (CCF体系结构A类)
 
 ## On the Degree of Boolean Functions as Polynomials over Zm
 
@@ -20,7 +20,7 @@
 
 项目成果：利用线性代数和图论的方法，我们给出了关于布尔函数多项式表达取模后的次数下界的新的结果。具体来说，当m是素数或者素数幂，我们完全解决了这个问题；当m至少包含2个素因子且函数是对称布尔函数的时候，我们给出了一个渐近意义下紧的下界。
 
-发表会议：International Colloquium on Automata, Languages, and Programming (ICALP'2020) (CCF理论B类)
+发表会议：International Colloquium on Automata, Languages, and Programming, 2020 (CCF理论B类)
 
 ## The One-Round Multi-player Discrete Voronoi Game on Grids and Trees
 
@@ -28,7 +28,7 @@
 
 项目成果：本文主要研究了两类特殊的图——格点图和树。对于格点图，给出了玩家数小于等于4时存在纳什均衡的渐进充要条件；对于树，给出了玩家数小于等于3时判定是否存在纳什均衡的时空复杂度最优的算法。
 
-发表期刊：Theoretical Computer Science (TCS'2020) (CCF理论B类，中科院四区)
+发表期刊：Theoretical Computer Science, 2020 (CCF理论B类)
 
 ## On the Relationship between Energy Complexity and other Boolean Function Measures
 
@@ -36,7 +36,7 @@
 
 项目成果：本文的主要结果是证明了能量复杂性与判定树复杂性(一个被研究很广的布尔函数测度)有多项式上的大小关系，其中关于下界的结果是紧的，解决了前人关于能量复杂性的两个猜想。
 
-发表会议：International Computing and Combinatorics Conference (COCOON'2019)
+发表期刊：Journal of Combinatorial Optimization, 2021 (SCI)
 
 ## Better Upper Bounds for Searching on a Line with Byzantine Robots
 
@@ -44,4 +44,4 @@
 
 项目成果：我们设计了一个新的递归结构的算法，使得当5N/14<=K<N/2时，新算法相比原有算法效率有明显提升。
 
-发表会议：Complexity and Approximation 2020
+发表会议：Complexity and Approximation, 2020
